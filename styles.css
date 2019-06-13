@@ -1,0 +1,21 @@
+.calc {
+  border: 1px solid black;
+  width: 500px;
+  height: 500px;
+}
+
+.calc td {
+  border: 1px solid black;
+  text-align: center;
+  width: 20%;
+  font-size: 18px;
+}
+
+.calc td:hover {
+  background: #f1f1f1;
+}
+
+.calc .calc-area {
+  text-align: right;
+  padding-right: 30px;
+}
